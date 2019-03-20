@@ -5,5 +5,9 @@ public class TesteJava{
 	//do something		
 	}
 
+	private void funcionalidad(){
+		//faz funcionalidade X
+	}
+
 
 }
